@@ -1,5 +1,5 @@
 # CheriC 🍒
-## Digital Media Graduation Project
+### Digital Media Graduation Project
 
 <!--
 
