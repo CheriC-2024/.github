@@ -1,4 +1,5 @@
-## Hi there 👋
+# CheriC 🍒
+## Digital Media Graduation Project
 
 <!--
 
